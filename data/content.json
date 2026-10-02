@@ -188,15 +188,27 @@
   "galerie": [
     {
       "image": "images/gallery1.jpg",
-      "legende": "Pose de tuiles plates sur liteaux neufs"
+      "legende": "Ravalement de façade — avant / après"
     },
     {
       "image": "images/gallery2.jpg",
-      "legende": "Démoussage de toiture : avant / après sur le même pan"
+      "legende": "Rénovation d'un escalier extérieur"
     },
     {
       "image": "images/gallery3.jpg",
-      "legende": "Fenêtres de toit posées sur une couverture en tuile plate"
+      "legende": "Nettoyage et remise en état d'une toiture"
+    },
+    {
+      "image": "images/gallery4.jpg",
+      "legende": "Réfection d'un muret et d'une clôture"
+    },
+    {
+      "image": "images/gallery5.jpg",
+      "legende": "Démoussage de toiture haute pression"
+    },
+    {
+      "image": "images/gallery6.jpg",
+      "legende": "Peinture de toiture en fibrociment"
     }
   ],
   "faq": [
