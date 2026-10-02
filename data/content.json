@@ -1,0 +1,330 @@
+{
+  "nom_entreprise": "LD Couverture David Labille",
+  "type_artisan": "Couvreur",
+  "ville": "Bucey-en-Othe",
+  "telephone_affiche": "06 85 31 17 59",
+  "telephone_tel": "+33685311759",
+  "annee": "2026",
+  "design": {
+    "palette": "orange",
+    "nav_style": "transparent",
+    "stats_style": "classique"
+  },
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre couvreur à Bucey-en-Othe, Troyes et dans le Pays d'Othe",
+    "description": "LD Couverture rénove, répare et démousse vos toitures à Bucey-en-Othe, Estissac, Troyes et dans tout le Pays d'Othe. Devis gratuit et sans engagement."
+  },
+  "apropos": {
+    "image": "images/apropos.jpg",
+    "texte": "LD Couverture est l'entreprise de David Labille, couvreur installé rue Neuve à Bucey-en-Othe (10190), entre Estissac et Troyes. Couverture, zinguerie et démoussage : c'est écrit sur le camion et c'est notre métier au quotidien, avec aussi la pose de toiture neuve, les fenêtres de toit, le ravalement de façade et la peinture, sur les maisons à pans de bois, les longères du Pays d'Othe et les pavillons de l'agglomération troyenne.\n\nTravail soigné, intervention rapide et efficace : c'est ce que nos clients retiennent. Garantie décennale, responsabilité civile professionnelle, devis gratuit et détaillé : nous intervenons à Bucey-en-Othe, Estissac, Aix-Villemaur-Pâlis, Troyes et dans tout le Pays d'Othe.",
+    "badges": [
+      "Couvreur de l'Aube",
+      "Garantie décennale",
+      "Devis gratuit",
+      "Intervention rapide"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "10",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "150",
+      "label": "Réalisations"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Rénovation et Réparation Toiture",
+      "description": "Inspection, diagnostic précis et travaux de remise à neuf pour prolonger la vie de votre toit et assurer son étanchéité.",
+      "image": "images/service1.jpg",
+      "page": "renovation-reparation-toiture.html",
+      "points": [
+        "Diagnostic complet de la couverture",
+        "Remplacement des tuiles cassées ou glissées",
+        "Reprise de la charpente et du support",
+        "Traitement des infiltrations et des fuites",
+        "Réfection partielle ou totale",
+        "Mise en conformité et étanchéité"
+      ]
+    },
+    {
+      "titre": "Pose de Toiture Neuve",
+      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "image": "images/service2.jpg",
+      "page": "pose-toiture-neuve.html",
+      "points": [
+        "Tuile plate, tuile mécanique et bac acier",
+        "Dépose de l'ancienne couverture",
+        "Pose de l'écran sous-toiture",
+        "Liteaunage et fixation",
+        "Isolation de la sous-toiture",
+        "Finitions de rives, arêtiers et faîtage"
+      ]
+    },
+    {
+      "titre": "Entretien et Démoussage",
+      "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
+      "image": "images/service3.jpg",
+      "page": "entretien-demoussage.html",
+      "points": [
+        "Démoussage manuel et mécanique",
+        "Traitement curatif anti-mousse",
+        "Hydrofuge de protection",
+        "Curage des gouttières",
+        "Contrôle des tuiles et des faîtages",
+        "Entretien annuel programmé"
+      ]
+    },
+    {
+      "titre": "Peinture Intérieure",
+      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
+      "image": "images/service4.jpg",
+      "page": "peinture-interieure.html",
+      "points": [
+        "Murs, plafonds et boiseries",
+        "Rebouchage et préparation des supports",
+        "Peinture mate, satinée ou velours",
+        "Pose de papier peint et revêtements",
+        "Conseils couleurs personnalisés",
+        "Protection du mobilier et nettoyage"
+      ]
+    },
+    {
+      "titre": "Peinture Extérieure",
+      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
+      "image": "images/service5.jpg",
+      "page": "peinture-exterieure.html",
+      "points": [
+        "Façades, volets et portails",
+        "Bardages et ferronneries",
+        "Traitement antirouille et antifongique",
+        "Peintures microporeuses extérieures",
+        "Boiseries et garde-corps",
+        "Protection des abords du chantier"
+      ]
+    },
+    {
+      "titre": "Travaux de zinguerie",
+      "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
+      "image": "images/service6.jpg",
+      "page": "zinguerie.html",
+      "points": [
+        "Gouttières pendantes et rampantes",
+        "Chéneaux et noues en zinc",
+        "Descentes d'eaux pluviales",
+        "Solins et raccords de cheminée",
+        "Bandeaux, rives et habillages",
+        "Soudure du zinc sur place"
+      ]
+    },
+    {
+      "titre": "Nettoyage et ravalement façade",
+      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
+      "image": "images/service7.jpg",
+      "page": "nettoyage-ravalement-facade.html",
+      "points": [
+        "Nettoyage haute pression et brossage",
+        "Traitement anti-mousse des murs",
+        "Reprise des fissures et des épaufrures",
+        "Enduit taloché, gratté ou à la chaux",
+        "Peinture de façade microporeuse",
+        "Protection hydrofuge incolore"
+      ]
+    },
+    {
+      "titre": "Installation et remplacement de Velux",
+      "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
+      "image": "images/service8.jpg",
+      "page": "pose-velux.html",
+      "points": [
+        "Création de la trémie dans la charpente",
+        "Pose du cadre et du raccord d'étanchéité",
+        "Remplacement de fenêtres anciennes",
+        "Reprise de la couverture autour",
+        "Finitions intérieures et habillage",
+        "Stores et volets roulants"
+      ]
+    },
+    {
+      "titre": "Peinture de toiture",
+      "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
+      "image": "images/service9.jpg",
+      "page": "peinture-toiture.html",
+      "points": [
+        "Nettoyage et traitement préalable",
+        "Résine de protection pigmentée",
+        "Tuiles béton et terre cuite",
+        "Fibrociment et bac acier",
+        "Application en deux couches",
+        "Uniformisation de la teinte"
+      ]
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "O",
+        "nom": "Olivier Kauffmann",
+        "texte": "Travail soigner, intervention rapide et efficace.\nJe recommande."
+      },
+      {
+        "initiale": "N",
+        "nom": "Nathalie Girardot",
+        "texte": "Démoussage et traitement de notre toiture à Estissac. David est venu faire le devis dans la semaine, le travail a été fait proprement et le toit a retrouvé sa couleur. Prix honnête, je recommande."
+      },
+      {
+        "initiale": "J",
+        "nom": "Julien Marchand",
+        "texte": "Fuite au niveau d'un Velux réglée rapidement, puis remplacement des tuiles abîmées autour. Artisan sérieux, ponctuel et de bon conseil. Très satisfait."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.jpg",
+      "legende": "Pose de tuiles plates sur liteaux neufs"
+    },
+    {
+      "image": "images/gallery2.jpg",
+      "legende": "Démoussage de toiture : avant / après sur le même pan"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Fenêtres de toit posées sur une couverture en tuile plate"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels sont vos horaires ?",
+      "reponse": "Nous sommes joignables du lundi au samedi de 8h à 18h, au 06 85 31 17 59. En cas de fuite ou de dégâts après un coup de vent, appelez-nous : nous posons une protection provisoire en priorité."
+    },
+    {
+      "question": "Travaillez-vous la tuile plate des maisons anciennes de l'Aube ?",
+      "reponse": "Oui. La petite tuile plate couvre la plupart des maisons à pans de bois et des longères du Pays d'Othe : nous la reposons sur liteaux neufs, en réutilisant les tuiles saines et en complétant avec des tuiles de récupération assorties quand c'est possible."
+    },
+    {
+      "question": "À quelle fréquence faut-il démousser un toit dans l'Aube ?",
+      "reponse": "Tous les quatre à six ans. Avec l'humidité de la forêt d'Othe, le gel et les longs hivers, la mousse repousse vite, surtout sur les pans exposés au nord et à proximité des arbres. Un traitement hydrofuge espace nettement les interventions."
+    },
+    {
+      "question": "Dans quelles communes intervenez-vous ?",
+      "reponse": "Nous intervenons à Bucey-en-Othe et dans le Pays d'Othe et l'agglomération troyenne : Troyes, Estissac, Aix-Villemaur-Pâlis, Sainte-Savine, La Chapelle-Saint-Luc, Saint-André-les-Vergers, Les Noës-près-Troyes, Torvilliers, Fontvannes, Prugny, Messon, Vauchassis, Chennegy, Bercenay-en-Othe et Villemoiron-en-Othe."
+    },
+    {
+      "question": "Quand faut-il envisager une rénovation de toiture ?",
+      "reponse": "Dès que vous constatez des tuiles glissées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+    },
+    {
+      "question": "Proposez-vous des devis gratuits ?",
+      "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
+    }
+  ],
+  "contact_description": "Une fuite ou un projet de toiture ? Appelez-nous au 06 85 31 17 59, le devis est gratuit.",
+  "footer_description": "Couvreur à Bucey-en-Othe (10). Rénovation et réparation de toiture, zinguerie, démoussage, Velux, façade et peinture dans le Pays d'Othe et l'agglomération troyenne.",
+  "horaires": {
+    "visible": true,
+    "adresse": "16 rue Neuve, 10190 Bucey-en-Othe",
+    "lat": 48.2632,
+    "lng": 3.8571,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "18:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      }
+    ]
+  },
+  "seo": {
+    "title": "Couvreur à Bucey-en-Othe et à Troyes (10) — toiture, zinguerie, démoussage | LD Couverture David Labille",
+    "description": "LD Couverture David Labille, couvreur à Bucey-en-Othe : rénovation et réparation de toiture, couverture neuve, démoussage, zinguerie, Velux, façade et peinture dans le Pays d'Othe et l'agglomération troyenne. Devis gratuit au 06 85 31 17 59.",
+    "keywords": "couvreur Bucey-en-Othe, couvreur Troyes, couvreur 10, rénovation toiture Aube, zinguerie Estissac, démoussage toiture Troyes, couvreur Aix-Villemaur-Pâlis, couvreur Sainte-Savine, toiture Bucey-en-Othe, réparation fuite toiture Aube",
+    "email": "",
+    "code_postal": "10190",
+    "departement": "Aube",
+    "geo_region": "FR-10",
+    "lat": 48.2632,
+    "lng": 3.8571,
+    "villes": [
+      "Bucey-en-Othe",
+      "Troyes",
+      "Estissac",
+      "Aix-Villemaur-Pâlis",
+      "Sainte-Savine",
+      "La Chapelle-Saint-Luc",
+      "Saint-André-les-Vergers",
+      "Les Noës-près-Troyes",
+      "Torvilliers",
+      "Fontvannes",
+      "Prugny",
+      "Messon",
+      "Vauchassis",
+      "Chennegy",
+      "Bercenay-en-Othe",
+      "Villemoiron-en-Othe"
+    ]
+  }
+}
